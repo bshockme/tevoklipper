@@ -1,13 +1,7 @@
-# cr10_klipper
-cr10 klipper profile: 
+# tevoklipper
 
-updates:
-- new thermistor setting
-- added a bltouch --> virtual endstop 
-- bed mesh level config
-- estep calibration updates
-- split everything into seperate files. If you want to upload calibration settings,this is saved in the printer.cfg so only this needs to be updated. 
-- added new macros 
+Forked from:https://github.com/fl0r1s/cr10_klipper
+with config imported from my working klipper config 
 
 
 To update klipper / dwc2 use 
